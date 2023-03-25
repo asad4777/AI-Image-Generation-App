@@ -12,3 +12,11 @@
 # THEN SHARE WITH YOUR COMMUNITY
 
 ![then share with comunity](https://user-images.githubusercontent.com/119850488/227213386-ea2d54d1-299a-4df5-8d47-995b113dc1ea.png)
+
+# IMAGE STORED IN CLOUDINARY 
+
+![Cloudinary](https://user-images.githubusercontent.com/119850488/227719794-8f3b1991-2eb8-4854-8f7a-e2e6055b0916.png)
+
+# AND ID NAME STORED IN MONGODB
+
+![mongodb](https://user-images.githubusercontent.com/119850488/227719819-bdbf0871-c4a3-4197-a5e1-532c6558437e.png)
